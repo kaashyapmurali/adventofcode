@@ -1,5 +1,3 @@
-import argparse
-
 def read_data(filename, part=1):
     numbers = []
     if part == 1:
